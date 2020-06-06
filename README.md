@@ -9,6 +9,7 @@
 ![](https://github.com/ayyucekizrak/GAN_UreticiCekismeliAglar_ile_SentetikVeriUretme/blob/master/dcgan.gif)
 
 ---
+:shoe::shirt::sandal::dress::necktie::high_heel::womans_clothes::jeans::womans_hat::handbag:
 
 ### Üretici Çekişmeli Ağlar (GAN) 
 
@@ -24,7 +25,6 @@ Bu çalışma dosyasında DCGAN yani evrişimli bir GAN tipini ele alarak konunu
 
 ---
 
-:shoe::shirt::sandal::dress::necktie::high_heel::womans_clothes::jeans::womans_hat::handbag:
 DCGAN ise Evrişim ve Ters Evrişimden oluşan iki ağdan oluşuyor. Üretici ve Ayırcı ağlarının evrişimli olmasından dolayı adına *Derin Evrişimli Üretici Çekişmeli Ağlar* deniyor.
 
 [DCGAN için temel kaynak](https://arxiv.org/pdf/1511.06434.pdf)
