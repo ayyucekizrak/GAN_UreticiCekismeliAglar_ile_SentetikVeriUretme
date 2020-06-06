@@ -10,7 +10,7 @@
 
 ---
 
-### Üretici Çekişmeli Ağlar (GAN)
+### Üretici Çekişmeli Ağlar (GAN) 
 
 2014 yılından bu yana heyecan verici yapay zeka konularından olan değişimsel otokodlayıcılar (Variatinoal autoencoders - VAEs).  ve üretici çekişmeli ağlar (Generative adverserial networks - GANs) ile görüntülerdeki saklı uzayının örneklenmesiyle var olan görseli değiştirme ya da yenisini üretmek mümkün hale geliyor. Ian Goodfellow ile derin öğrenme dünyasını sarsan GAN yaklaşımı istatistiksel anlamda gerçeğinden ayırt edilemeyen sentetik verilerin üretilmesinin önünü açıyor. Çalışma yapısında başlangıçta kötü bir taklitçi gibi düşünülebilir. Taklit yeteneği giderek gelişir ve gerçeğinden ayırt edilemeyen fakat aynısı olmayan yeni çıktılar üretilmektedir. 
 
@@ -24,6 +24,7 @@ Bu çalışma dosyasında DCGAN yani evrişimli bir GAN tipini ele alarak konunu
 
 ---
 
+:shoe::shirt::sandal::dress::necktie::high_heel::womans_clothes::jeans::womans_hat::handbag:
 DCGAN ise Evrişim ve Ters Evrişimden oluşan iki ağdan oluşuyor. Üretici ve Ayırcı ağlarının evrişimli olmasından dolayı adına *Derin Evrişimli Üretici Çekişmeli Ağlar* deniyor.
 
 [DCGAN için temel kaynak](https://arxiv.org/pdf/1511.06434.pdf)
