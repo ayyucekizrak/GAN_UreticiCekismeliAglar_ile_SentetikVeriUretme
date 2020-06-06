@@ -6,6 +6,7 @@
 ---
 **Google Colab Not Defterinde Aç** 📌[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/GAN_UreticiCekismeliAglar_ile_SentetikVeriUretme/blob/master/DCGAN_ile_Keras_Kullanarak_Sentetik_Goruntu_%20Olusturulmasi.ipynb) 
 
+---
 
 ### Üretici Çekişmeli Ağlar (GAN)
 
