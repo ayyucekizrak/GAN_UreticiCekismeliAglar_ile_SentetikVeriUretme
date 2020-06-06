@@ -4,12 +4,12 @@
 <h3 align=center>(Deep Convolutional Generative Adversarial)</h3>
 
 ---
-:dizzy_face: **Google Colab Not Defterinde Aç** 📌[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/GAN_UreticiCekismeliAglar_ile_SentetikVeriUretme/blob/master/DCGAN_ile_Keras_Kullanarak_Sentetik_Goruntu_%20Olusturulmasi.ipynb)
+:dizzy_face: **Google Colab Not Defterinde Aç** 📌[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/GAN_UreticiCekismeliAglar_ile_SentetikVeriUretme/blob/master/DCGAN_ile_Keras_Kullanarak_Sentetik_Goruntu_%20Olusturulmasi.ipynb) :shoe::shirt::sandal::dress::necktie::high_heel::womans_clothes::jeans::womans_hat::handbag:
 
 ![](https://github.com/ayyucekizrak/GAN_UreticiCekismeliAglar_ile_SentetikVeriUretme/blob/master/dcgan.gif)
 
 ---
-:shoe::shirt::sandal::dress::necktie::high_heel::womans_clothes::jeans::womans_hat::handbag:
+
 
 ### Üretici Çekişmeli Ağlar (GAN) 
 
