@@ -4,6 +4,9 @@
 <h3 align=center>(Deep Convolutional Generative Adversarial
 
 ---
+**Google Colab Not Defterinde Aç** 📌[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/PyTorch-ile-Goruntu-Siniflandirma/blob/master/DCGAN_ile_Keras_Kullanarak_Sentetik_Goruntu_%20Olusturulmasi.ipynb) 
+
+
 ### Üretici Çekişmeli Ağlar (GAN)
 
 2014 yılından bu yana heyecan verici yapay zeka konularından olan değişimsel otokodlayıcılar (Variatinoal autoencoders - VAEs).  ve üretici çekişmeli ağlar (Generative adverserial networks - GANs) ile görüntülerdeki saklı uzayının örneklenmesiyle var olan görseli değiştirme ya da yenisini üretmek mümkün hale geliyor. Ian Goodfellow ile derin öğrenme dünyasını sarsan GAN yaklaşımı istatistiksel anlamda gerçeğinden ayırt edilemeyen sentetik verilerin üretilmesinin önünü açıyor. Çalışma yapısında başlangıçta kötü bir taklitçi gibi düşünülebilir. Taklit yeteneği giderek gelişir ve gerçeğinden ayırt edilemeyen fakat aynısı olmayan yeni çıktılar üretilmektedir. 
