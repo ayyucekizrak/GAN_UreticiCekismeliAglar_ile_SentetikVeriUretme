@@ -2,7 +2,7 @@
 
 ---
 <h3 align=center>(Deep Convolutional Generative Adversarial)
-:shoe::shirt::sandal::dress::necktie::high_heel::womans_clothes::jeans::womans_hat::handbag: </h3>
+<h3 align=center> :shoe::shirt::sandal::dress::necktie::high_heel::womans_clothes::jeans::womans_hat::handbag: </h3>
 
 ---
 :dizzy_face: **Google Colab Not Defterinde Aç** 
