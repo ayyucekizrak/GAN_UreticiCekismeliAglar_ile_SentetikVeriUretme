@@ -7,8 +7,6 @@
 ---
 :dizzy_face: **Google Colab Not Defterinde Aç**  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/GAN_UreticiCekismeliAglar_ile_SentetikVeriUretme/blob/master/DCGAN_ile_Keras_Kullanarak_Sentetik_Goruntu_%20Olusturulmasi.ipynb) 
 
----
-
 
 ![GAN Fake Face](https://i.pinimg.com/originals/f8/ac/28/f8ac28ae8df799128f2609d79011b045.gif)
 
@@ -24,7 +22,7 @@ Derin üretici ağlar GAN'lardan ibaret değil! Boltzmann makinesi yaklaşımlar
 
 2014 yılından bu yana heyecan verici yapay zeka konularından olan değişimsel otokodlayıcılar (Variatinoal autoencoders - VAEs).  ve üretici çekişmeli ağlar (Generative adverserial networks - GANs) ile görüntülerdeki saklı uzayının örneklenmesiyle var olan görseli değiştirme ya da yenisini üretmek mümkün hale geliyor. Ian Goodfellow ile derin öğrenme dünyasını sarsan GAN yaklaşımı istatistiksel anlamda gerçeğinden ayırt edilemeyen sentetik verilerin üretilmesinin önünü açıyor. Çalışma yapısında başlangıçta kötü bir taklitçi gibi düşünülebilir. Taklit yeteneği giderek gelişir ve gerçeğinden ayırt edilemeyen fakat aynısı olmayan yeni çıktılar üretilmektedir. 
 
-[GAN için temel kaynak](https://arxiv.org/pdf/1406.2661.pdf)
+:apple:[GAN için temel kaynak](https://arxiv.org/pdf/1406.2661.pdf)
 
 Bu çalışma dosyasında DCGAN yani evrişimli bir GAN tipini ele alarak konunun mantığını uygulamalı olarak göstermeye çalışıyorum. Aşağıdaki şekil temel bir GAN yapısını ifade ediyor.
 
@@ -36,7 +34,7 @@ Bu çalışma dosyasında DCGAN yani evrişimli bir GAN tipini ele alarak konunu
 
 DCGAN ise Evrişim ve Ters Evrişimden oluşan iki ağdan oluşuyor. Üretici ve Ayırcı ağlarının evrişimli olmasından dolayı adına *Derin Evrişimli Üretici Çekişmeli Ağlar* deniyor.
 
-[DCGAN için temel kaynak](https://arxiv.org/pdf/1511.06434.pdf)
+:apple:[DCGAN için temel kaynak](https://arxiv.org/pdf/1511.06434.pdf)
 
 ![DCGAN](https://i.hizliresim.com/XnsRnK.jpg)
 
@@ -54,5 +52,5 @@ Bu denklem aşağıdaki görseldeki yapıyı temsil ediyor:
 
 ![GAN Anlama](https://i.hizliresim.com/mYldwo.gif)
 
-Kaynak: [Play with Generative Adversarial Networks (GANs) in your browser!](https://poloclub.github.io/ganlab/)
+:apple:[Play with Generative Adversarial Networks (GANs) in your browser!](https://poloclub.github.io/ganlab/)
 
