@@ -23,7 +23,9 @@ Derin üretici ağlar GAN'lardan ibaret değil! Boltzmann makinesi yaklaşımlar
 
 Bu çalışma dosyasında DCGAN yani evrişimli bir GAN tipini ele alarak konunun mantığını uygulamalı olarak göstermeye çalışıyorum. Aşağıdaki şekil temel bir GAN yapısını ifade ediyor.
 
-![GAN](https://i.hizliresim.com/00TSUo.png | width=500)
+![GAN](https://i.hizliresim.com/00TSUo.png)
+
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://i.hizliresim.com/00TSUo.png" width="400" height="400" />
 
 [Şekil kaynağı](https://www.tensorflow.org/tutorials/generative/images/gan1.png)
 
