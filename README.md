@@ -29,7 +29,7 @@ Bu çalışma dosyasında DCGAN yani evrişimli bir GAN tipini ele alarak konunu
 
 ---
 
-DCGAN ise Evrişim ve Ters Evrişimden oluşan iki ağdan oluşuyor. Üretici ve Ayırcı ağlarının evrişimli olmasından dolayı adına *Derin Evrişimli Üretici Çekişmeli Ağlar* deniyor.
+**DCGAN** ise Evrişim ve Ters Evrişimden oluşan iki ağdan oluşuyor. Üretici ve Ayırcı ağlarının evrişimli olmasından dolayı adına **Derin Evrişimli Üretici Çekişmeli Ağlar** deniyor.
 
 :apple:[DCGAN için temel kaynak](https://arxiv.org/pdf/1511.06434.pdf)
 
