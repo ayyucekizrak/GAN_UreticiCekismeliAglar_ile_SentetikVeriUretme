@@ -7,10 +7,7 @@
 ---
 :dizzy_face: **Google Colab Not Defterinde Aç**  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/GAN_UreticiCekismeliAglar_ile_SentetikVeriUretme/blob/master/DCGAN_ile_Keras_Kullanarak_Sentetik_Goruntu_%20Olusturulmasi.ipynb) 
 
-![GAN Fake Face](https://i.hizliresim.com/84m0hR.gif)
-
-
-Sentetik veri üretmek yapay zeka konusundaki çalışmalar listesinde ilk sıralarda yerini alıyor. Bir veriye benzer veri üretmenin yanında görsel, işitsel ve yazılı sanat eserleri de üretebiliyor. Gerçeğinden ayırt edemeyeceğiniz insan yüzleri de üretebiliyorsunuz. Bir sanatçının stilini de taklit edebiliyorsunuz. Medikal alanda size gerekli olacak verinin mevcutlardan faydalanarak çoğaltılmasını da sağlamak amacıyla kullanılabiliyor. Tüm bunlar örüntülerin başarılı şekilde çıkarılmasıyla mümkün oluyor. 
+<img align="right"![GAN Fake Face](https://i.hizliresim.com/84m0hR.gif)> Sentetik veri üretmek yapay zeka konusundaki çalışmalar listesinde ilk sıralarda yerini alıyor. Bir veriye benzer veri üretmenin yanında görsel, işitsel ve yazılı sanat eserleri de üretebiliyor. Gerçeğinden ayırt edemeyeceğiniz insan yüzleri de üretebiliyorsunuz. Bir sanatçının stilini de taklit edebiliyorsunuz. Medikal alanda size gerekli olacak verinin mevcutlardan faydalanarak çoğaltılmasını da sağlamak amacıyla kullanılabiliyor. Tüm bunlar örüntülerin başarılı şekilde çıkarılmasıyla mümkün oluyor. 
 
 ---
 
