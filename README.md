@@ -5,9 +5,7 @@
 <h3 align=center> :shoe::shirt::sandal::dress::necktie::high_heel::womans_clothes::jeans::womans_hat::handbag: </h3>
 
 ---
-:dizzy_face: **Google Colab Not Defterinde Aç** 
-
-📌[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/GAN_UreticiCekismeliAglar_ile_SentetikVeriUretme/blob/master/DCGAN_ile_Keras_Kullanarak_Sentetik_Goruntu_%20Olusturulmasi.ipynb) 
+:dizzy_face: **Google Colab Not Defterinde Aç**  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/GAN_UreticiCekismeliAglar_ile_SentetikVeriUretme/blob/master/DCGAN_ile_Keras_Kullanarak_Sentetik_Goruntu_%20Olusturulmasi.ipynb) 
 
 ---
 ![GAN Fake Face](https://i.pinimg.com/originals/f8/ac/28/f8ac28ae8df799128f2609d79011b045.gif) 
