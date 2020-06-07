@@ -10,7 +10,7 @@
 
 ---
 
-<h3 align=center>![GAN Fake Face](https://i.pinimg.com/originals/f8/ac/28/f8ac28ae8df799128f2609d79011b045.gif) </h3>
+<align=center>![GAN Fake Face](https://i.pinimg.com/originals/f8/ac/28/f8ac28ae8df799128f2609d79011b045.gif) </>
 
 Sentetik veri üretmek yapay zeka konusundaki çalışmalar listesinde ilk sıralarda yerini alıyor. Bir veriye benzer veri üretmenin yanında görsel, işitsel ve yazılı sanat eserleri de üretebiliyor. Gerçeğinden ayırt edemeyeceğiniz insan yüzleri de üretebiliyorsunuz. Bir sanatçının stilini de taklit edebiliyorsunuz. Medikal alanda size gerekli olacak verinin mevcutlardan faydalanarak çoğaltılmasını da sağlamak amacıyla kullanılabiliyor. Tüm bunlar örüntülerin başarılı şekilde çıkarılmasıyla mümkün oluyor. 
 
