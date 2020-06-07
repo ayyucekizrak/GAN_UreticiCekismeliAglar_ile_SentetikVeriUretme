@@ -8,10 +8,17 @@
 
 📌[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/GAN_UreticiCekismeliAglar_ile_SentetikVeriUretme/blob/master/DCGAN_ile_Keras_Kullanarak_Sentetik_Goruntu_%20Olusturulmasi.ipynb) 
 
-![](https://github.com/ayyucekizrak/GAN_UreticiCekismeliAglar_ile_SentetikVeriUretme/blob/master/dcgan.gif)
+---
+
+<h3 align=center>![GAN Fake Face](https://i.pinimg.com/originals/f8/ac/28/f8ac28ae8df799128f2609d79011b045.gif) </h3>
+
+Sentetik veri üretmek yapay zeka konusundaki çalışmalar listesinde ilk sıralarda yerini alıyor. Bir veriye benzer veri üretmenin yanında görsel, işitsel ve yazılı sanat eserleri de üretebiliyor. Gerçeğinden ayırt edemeyeceğiniz insan yüzleri de üretebiliyorsunuz. Bir sanatçının stilini de taklit edebiliyorsunuz. Medikal alanda size gerekli olacak verinin mevcutlardan faydalanarak çoğaltılmasını da sağlamak amacıyla kullanılabiliyor. Tüm bunlar örüntülerin başarılı şekilde çıkarılmasıyla mümkün oluyor. 
 
 ---
 
+Derin üretici ağlar GAN'lardan ibaret değil! Boltzmann makinesi yaklaşımları (Boltzmann Machines), Derin inanç ağları (Deep Belif Networks), Evrişimsel Boltzmann yaklaşımları (Convolutional Boltzmann Machines), Yönlü (Directed Generative Nets) ve Değişimsel Otokodlayıcılar (Variational Autoencoders) gibi farklı yaklaşımlar GAN'lar dan önce ve hala kullanılıyor. İlginizi çekerse bu anahtar kelimeleri de araştırabilirsiniz.[*](https://www.deeplearningbook.org/contents/generative_models.html)
+
+*  [*Yeni ve farklı GAN yaklaşımları da var. Yaklaşık 200 GAN yaklaşımını listeyen bu repoyu inceleyebilirsiniz.*](https://github.com/hindupuravinash/the-gan-zoo) 
 
 ### Üretici Çekişmeli Ağlar (GAN) 
 
@@ -34,10 +41,6 @@ DCGAN ise Evrişim ve Ters Evrişimden oluşan iki ağdan oluşuyor. Üretici ve
 ![DCGAN](https://i.hizliresim.com/XnsRnK.jpg)
 
 [Şekil kaynağı](https://arxiv.org/pdf/1511.06434.pdf)
-
----
-
-[*Yeni ve farklı GAN yaklaşımları vardır. Yaklaşık 200 GAN yaklaşımını listeyen bu repoyu inceleyebilirsiniz.*](https://github.com/hindupuravinash/the-gan-zoo) 
 
 ---
 
